@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heideggercapital.vercel.app/sitemap.xml
