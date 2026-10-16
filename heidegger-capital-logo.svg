@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-labelledby="title desc">
+  <title id="title">Heidegger Capital</title>
+  <desc id="desc">A geometric H monogram with a restrained blue signal accent, paired with the Heidegger Capital wordmark.</desc>
+  <g fill="none" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M20 20h112v112H20z" stroke="#7897b1" stroke-width="2"/>
+    <path d="M51 48v64M101 48v64M51 80h50" stroke="#142536" stroke-width="8"/>
+    <path d="M100 48l17-17" stroke="#7897b1" stroke-width="2"/>
+    <path d="M116 27h8v8h-8z" fill="#7897b1" stroke="none"/>
+  </g>
+  <text x="174" y="82" fill="#142536" font-family="Manrope, Avenir, Helvetica, Arial, sans-serif" font-size="43" font-weight="600" letter-spacing="5.1">HEIDEGGER</text>
+  <path d="M176 101h40" stroke="#7897b1" stroke-width="2"/>
+  <text x="229" y="109" fill="#61788a" font-family="Manrope, Avenir, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="8.4">CAPITAL</text>
+</svg>
